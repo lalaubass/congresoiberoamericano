@@ -30,7 +30,8 @@ body {
 }
 
 .logotitulo {
-    width: 200px;
+    width: 50px;
+    margin-left: 3vh;
 }
 
 /* ----- Header -----*/
